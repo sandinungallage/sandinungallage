@@ -20,7 +20,7 @@
 - 💻 Passionate about developing modern full-stack applications and delivering intuitive UI/UX experiences.
 - 🧠 Programming Languages: TypeScript · JavaScript · PHP · Python · HTML · CSS
 - 🗄️ Databases: MongoDB · MySQL · Microsoft SQL Server
-- 🛠️ Frameworks & Tools: Next.js · Laravel · React · Node.js · .NET · Tailwind CSS · Bootstrap
+- 🛠️ Frameworks & Tools: Next.js · React · Node.js · .NET · Bootstrap
 - 🎨 Creative Suite: Photoshop · Illustrator
 
 ---
@@ -28,7 +28,7 @@
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,py,c,cs,cpp,dotnet,azure,git,github,bootstrap,mysql,mongodb,vscode,aws,visualstudio,figma,photoshop,illustrator&theme=dark&perline=10" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,py,c,cs,cpp,dotnet,git,github,bootstrap,mysql,mongodb,vscode,aws,visualstudio,figma,photoshop,illustrator&theme=dark&perline=10" alt="Skills" />
 </p>
 
 ---
