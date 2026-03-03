@@ -36,11 +36,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandinungallage&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" alt="sandinungallage stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sandinungallage&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandinungallage&theme=highcontrast&layout=compact&langs_count=6&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
