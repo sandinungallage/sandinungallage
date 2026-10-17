@@ -10,10 +10,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sandinungallage&label=Profile%20views&color=0e75b6&style=flat" alt="sandinungallage" />
-</p>
-
 ### 👨‍💻 About Me
 
 - 🎓 **Computer Science Undergraduate** at the **University of Westminster**
